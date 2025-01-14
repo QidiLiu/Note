@@ -11,7 +11,7 @@ Reference:
 - https://zhuanlan.zhihu.com/p/470087053
 - https://blog.csdn.net/qq_29183811/article/details/126773354
 
-**Compile OpenCV step by step**:
+## Compile OpenCV step by step
 
 Download source of [opencv-4.11.0](https://github.com/opencv/opencv/archive/refs/tags/4.11.0.zip) and [opencv_contrib-4.11.0](https://github.com/opencv/opencv_contrib/archive/refs/tags/4.11.0.zip) and unzip them `<somewhere>`.
 
@@ -54,3 +54,7 @@ From the menu bar of Visual Studio, choose "Build" > "Batch build", check the bo
 Click "Build", the Visual Studio would compile and install OpenCV, this process takes 0.5~3 hours.
 
 If everything goes well, the OpenCV would be installed in: `<somewhere>/opencv-4.11.0/build/install`
+
+## Test
+
+See [How to build applications with OpenCV inside the "Microsoft Visual Studio"](https://docs.opencv.org/4.x/dd/d6e/tutorial_windows_visual_studio_opencv.html)

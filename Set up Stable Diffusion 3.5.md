@@ -1,9 +1,9 @@
-#running 
+#done
 
 - Official model: [Hugging Face - Stability AI](https://huggingface.co/stabilityai)
 - Official repo: [GitHub - Stability-AI/sd3.5](https://github.com/Stability-AI/sd3.5)
 
-## Setup step by step
+## Set up step by step
 
 Download repo from [GitHub - Stability-AI/sd3.5](https://github.com/Stability-AI/sd3.5) and unzip it
 
@@ -27,3 +27,6 @@ Create and set up the python environment:
 0. Create and activate a new conda env
 1. Install the requirements `python -s -m pip install -r requirements.txt`
 
+## Test
+
+Activate the conda env and execute `python3 sd3_infer.py --prompt "cute wallpaper art of a cat"`
