@@ -11,6 +11,7 @@ Reference:
 - https://zhuanlan.zhihu.com/p/470087053
 - https://blog.csdn.net/qq_29183811/article/details/126773354
 
+Related: [[Compile OpenCV on Ubuntu (立创开发板 · 泰山派)]]
 ## Compile OpenCV step by step
 
 Download source of [opencv-4.11.0](https://github.com/opencv/opencv/archive/refs/tags/4.11.0.zip) and [opencv_contrib-4.11.0](https://github.com/opencv/opencv_contrib/archive/refs/tags/4.11.0.zip) and unzip them `<somewhere>`.
